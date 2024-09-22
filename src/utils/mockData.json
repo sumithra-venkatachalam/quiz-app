@@ -1,0 +1,1053 @@
+[
+    {
+        "id": 1,
+        "domainName": "HTML",
+        "domainDescription": "This is for HTML",
+        "lecturerName": "Vignesh",
+        "difficultyLevel": "Easy",
+        "domainImage": "https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/05/23151218/BA-Courses.png",
+        "questions": [
+            {
+                "id": 1,
+                "currentQuestion": "What does HTML stand for?",
+                "options": [
+                    "HyperText Markup Language",
+                    "HighText Markup Language",
+                    "Hyperlink and Text Markup Language",
+                    "HyperText MultiLanguage"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "HyperText Markup Language"
+            },
+            {
+                "id": 2,
+                "currentQuestion": "How do you create a hyperlink in HTML?",
+                "options": [
+                    "<a href='URL'>",
+                    "<link src='URL'>",
+                    "<hyperlink href='URL'>",
+                    "<url href='URL'>"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "<a href='URL'>"
+            },
+            {
+                "id": 3,
+                "currentQuestion": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+                "options": [
+                    "alt",
+                    "src",
+                    "title",
+                    "href"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "alt"
+            },
+            {
+                "id": 4,
+                "currentQuestion": "Which tag is used for the largest heading in HTML?",
+                "options": [
+                    "<h1>",
+                    "<h6>",
+                    "<header>",
+                    "<heading>"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "<h1>"
+            },
+            {
+                "id": 5,
+                "currentQuestion": "How can you make a numbered list in HTML?",
+                "options": [
+                    "<ol>",
+                    "<ul>",
+                    "<list>",
+                    "<nl>"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "<ol>"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "domainName": "CSS",
+        "domainDescription": "This is for CSS",
+        "lecturerName": "Sahana",
+        "difficultyLevel": "Easy",
+        "domainImage": "https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/05/23151218/BA-Courses.png",
+        "questions": [
+            {
+                "id": 1,
+                "currentQuestion": "What does CSS stand for?",
+                "options": [
+                    "Cascading Style Sheets",
+                    "Creative Style Sheets",
+                    "Computer Style Sheets",
+                    "Colorful Style Sheets"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "Cascading Style Sheets"
+            },
+            {
+                "id": 2,
+                "currentQuestion": "Which property is used to change the text color in CSS?",
+                "options": [
+                    "color",
+                    "text-color",
+                    "font-color",
+                    "text-style"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "color"
+            },
+            {
+                "id": 3,
+                "currentQuestion": "Which property is used to change the font size of text in CSS?",
+                "options": [
+                    "font-size",
+                    "text-size",
+                    "font-style",
+                    "text-font"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "font-size"
+            },
+            {
+                "id": 4,
+                "currentQuestion": "What is the default value of the position property in CSS?",
+                "options": [
+                    "static",
+                    "relative",
+                    "absolute",
+                    "fixed"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "static"
+            },
+            {
+                "id": 5,
+                "currentQuestion": "How do you select an element with the class name 'example' in CSS?",
+                "options": [
+                    ".example",
+                    "#example",
+                    "example",
+                    "*example"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": ".example"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "domainName": "JavaScript",
+        "domainDescription": "This is for JavaScript",
+        "lecturerName": "Arun",
+        "difficultyLevel": "Medium",
+        "domainImage": "https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/05/23151218/BA-Courses.png",
+        "questions": [
+            {
+                "id": 1,
+                "currentQuestion": "What does 'var' declare in JavaScript?",
+                "options": [
+                    "A variable",
+                    "A function",
+                    "An array",
+                    "An object"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "A variable"
+            },
+            {
+                "id": 2,
+                "currentQuestion": "Which method is used to find the length of an array in JavaScript?",
+                "options": [
+                    "length()",
+                    "size()",
+                    "getLength()",
+                    "count()"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "length()"
+            },
+            {
+                "id": 3,
+                "currentQuestion": "How do you write an 'if' statement in JavaScript?",
+                "options": [
+                    "if (condition) { // code }",
+                    "if condition { // code }",
+                    "if (condition) // code",
+                    "if (condition) { code }"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "if (condition) { // code }"
+            },
+            {
+                "id": 4,
+                "currentQuestion": "Which symbol is used for concatenation in JavaScript?",
+                "options": [
+                    "+",
+                    "&",
+                    "||",
+                    "*"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "+"
+            },
+            {
+                "id": 5,
+                "currentQuestion": "What is the correct syntax to print a message in the console?",
+                "options": [
+                    "console.log('message');",
+                    "log.console('message');",
+                    "print.console('message');",
+                    "console.print('message');"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "console.log('message');"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "domainName": "Python",
+        "domainDescription": "This is for Python",
+        "lecturerName": "Priya",
+        "difficultyLevel": "Medium",
+        "domainImage": "https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/05/23151218/BA-Courses.png",
+        "questions": [
+            {
+                "id": 1,
+                "currentQuestion": "Which keyword is used to define a function in Python?",
+                "options": [
+                    "def",
+                    "function",
+                    "func",
+                    "define"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "def"
+            },
+            {
+                "id": 2,
+                "currentQuestion": "How do you start a comment in Python?",
+                "options": [
+                    "#",
+                    "//",
+                    "/*",
+                    "--"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "#"
+            },
+            {
+                "id": 3,
+                "currentQuestion": "Which method is used to get the length of a list in Python?",
+                "options": [
+                    "len()",
+                    "length()",
+                    "size()",
+                    "count()"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "len()"
+            },
+            {
+                "id": 4,
+                "currentQuestion": "What data type is used to store text in Python?",
+                "options": [
+                    "str",
+                    "int",
+                    "float",
+                    "list"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "str"
+            },
+            {
+                "id": 5,
+                "currentQuestion": "Which symbol is used for division in Python?",
+                "options": [
+                    "/",
+                    "//",
+                    "%",
+                    "*"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "/"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "domainName": "SQL",
+        "domainDescription": "This is for SQL",
+        "lecturerName": "Anil",
+        "difficultyLevel": "Medium",
+        "domainImage": "https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/05/23151218/BA-Courses.png",
+        "questions": [
+            {
+                "id": 1,
+                "currentQuestion": "What does SQL stand for?",
+                "options": [
+                    "Structured Query Language",
+                    "Simple Query Language",
+                    "Structured Question Language",
+                    "Simple Question Language"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "Structured Query Language"
+            },
+            {
+                "id": 2,
+                "currentQuestion": "Which SQL statement is used to retrieve data from a database?",
+                "options": [
+                    "SELECT",
+                    "GET",
+                    "RETRIEVE",
+                    "FETCH"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "SELECT"
+            },
+            {
+                "id": 3,
+                "currentQuestion": "Which SQL clause is used to filter records?",
+                "options": [
+                    "WHERE",
+                    "FILTER",
+                    "ORDER BY",
+                    "GROUP BY"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "WHERE"
+            },
+            {
+                "id": 4,
+                "currentQuestion": "What does the SQL 'JOIN' clause do?",
+                "options": [
+                    "Combines rows from two or more tables",
+                    "Deletes a row from a table",
+                    "Updates existing rows in a table",
+                    "Creates a new table"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "Combines rows from two or more tables"
+            },
+            {
+                "id": 5,
+                "currentQuestion": "Which SQL keyword is used to prevent duplicate records?",
+                "options": [
+                    "DISTINCT",
+                    "UNIQUE",
+                    "NO_DUPLICATES",
+                    "REMOVE_DUPLICATES"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "DISTINCT"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "domainName": "Java",
+        "domainDescription": "This is for Java",
+        "lecturerName": "Raj",
+        "difficultyLevel": "Hard",
+        "domainImage": "https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/05/23151218/BA-Courses.png",
+        "questions": [
+            {
+                "id": 1,
+                "currentQuestion": "What is the default value of a boolean variable in Java?",
+                "options": [
+                    "false",
+                    "true",
+                    "0",
+                    "null"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "false"
+            },
+            {
+                "id": 2,
+                "currentQuestion": "Which keyword is used to create a class in Java?",
+                "options": [
+                    "class",
+                    "new",
+                    "create",
+                    "def"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "class"
+            },
+            {
+                "id": 3,
+                "currentQuestion": "What is the main method signature in Java?",
+                "options": [
+                    "public static void main(String[] args)",
+                    "public void main(String[] args)",
+                    "static void main(String args)",
+                    "void main(String[] args)"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "public static void main(String[] args)"
+            },
+            {
+                "id": 4,
+                "currentQuestion": "Which of the following is a valid declaration of a String variable in Java?",
+                "options": [
+                    "String name;",
+                    "str name;",
+                    "char name;",
+                    "String name = new String();"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "String name;"
+            },
+            {
+                "id": 5,
+                "currentQuestion": "What does JVM stand for in Java?",
+                "options": [
+                    "Java Virtual Machine",
+                    "Java Variable Machine",
+                    "Java Value Machine",
+                    "Java Virtual Method"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "Java Virtual Machine"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "domainName": "C++",
+        "domainDescription": "This is for C++",
+        "lecturerName": "Nisha",
+        "difficultyLevel": "Hard",
+        "domainImage": "https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/05/23151218/BA-Courses.png",
+        "questions": [
+            {
+                "id": 1,
+                "currentQuestion": "Which operator is used for inheritance in C++?",
+                "options": [
+                    ":",
+                    "->",
+                    "*",
+                    "."
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": ":"
+            },
+            {
+                "id": 2,
+                "currentQuestion": "What is the size of an int variable in C++?",
+                "options": [
+                    "4 bytes",
+                    "2 bytes",
+                    "8 bytes",
+                    "1 byte"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "4 bytes"
+            },
+            {
+                "id": 3,
+                "currentQuestion": "Which of the following is used to allocate memory dynamically in C++?",
+                "options": [
+                    "new",
+                    "malloc",
+                    "calloc",
+                    "alloc"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "new"
+            },
+            {
+                "id": 4,
+                "currentQuestion": "What is the base class of all classes in C++?",
+                "options": [
+                    "Object",
+                    "Base",
+                    "Class",
+                    "CObject"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "Object"
+            },
+            {
+                "id": 5,
+                "currentQuestion": "Which keyword is used to prevent a class from being inherited in C++?",
+                "options": [
+                    "final",
+                    "static",
+                    "private",
+                    "sealed"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "final"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "domainName": "PHP",
+        "domainDescription": "This is for PHP",
+        "lecturerName": "Amit",
+        "difficultyLevel": "Medium",
+        "domainImage": "https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/05/23151218/BA-Courses.png",
+        "questions": [
+            {
+                "id": 1,
+                "currentQuestion": "What does PHP stand for?",
+                "options": [
+                    "Hypertext Preprocessor",
+                    "Hypertext Programming",
+                    "Personal Home Page",
+                    "Preprocessor Hypertext"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "Hypertext Preprocessor"
+            },
+            {
+                "id": 2,
+                "currentQuestion": "Which function is used to include a file in PHP?",
+                "options": [
+                    "include",
+                    "require",
+                    "import",
+                    "load"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "include"
+            },
+            {
+                "id": 3,
+                "currentQuestion": "Which operator is used for concatenation in PHP?",
+                "options": [
+                    ".",
+                    "+",
+                    "&",
+                    "||"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "."
+            },
+            {
+                "id": 4,
+                "currentQuestion": "How do you declare a variable in PHP?",
+                "options": [
+                    "$variable",
+                    "variable",
+                    "var variable",
+                    "int variable"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "$variable"
+            },
+            {
+                "id": 5,
+                "currentQuestion": "What is the correct way to end a PHP statement?",
+                "options": [
+                    ";",
+                    ".",
+                    ":",
+                    ","
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": ";"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "domainName": "Ruby",
+        "domainDescription": "This is for Ruby",
+        "lecturerName": "Sophie",
+        "difficultyLevel": "Medium",
+        "domainImage": "https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/05/23151218/BA-Courses.png",
+        "questions": [
+            {
+                "id": 1,
+                "currentQuestion": "What is the main purpose of Ruby?",
+                "options": [
+                    "General-purpose programming",
+                    "Web development",
+                    "Data analysis",
+                    "Systems programming"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "General-purpose programming"
+            },
+            {
+                "id": 2,
+                "currentQuestion": "Which method is used to print text to the console in Ruby?",
+                "options": [
+                    "puts",
+                    "print",
+                    "echo",
+                    "display"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "puts"
+            },
+            {
+                "id": 3,
+                "currentQuestion": "How do you define a method in Ruby?",
+                "options": [
+                    "def method_name",
+                    "function method_name",
+                    "method method_name",
+                    "define method_name"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "def method_name"
+            },
+            {
+                "id": 4,
+                "currentQuestion": "What symbol is used for comments in Ruby?",
+                "options": [
+                    "#",
+                    "//",
+                    "/*",
+                    "--"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "#"
+            },
+            {
+                "id": 5,
+                "currentQuestion": "Which method is used to get the length of an array in Ruby?",
+                "options": [
+                    "length",
+                    "size",
+                    "count",
+                    "getLength"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "length"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "domainName": "Swift",
+        "domainDescription": "This is for Swift",
+        "lecturerName": "Vikram",
+        "difficultyLevel": "Hard",
+        "domainImage": "https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/05/23151218/BA-Courses.png",
+        "questions": [
+            {
+                "id": 1,
+                "currentQuestion": "Which keyword is used to declare a variable in Swift?",
+                "options": [
+                    "var",
+                    "let",
+                    "const",
+                    "define"
+                ],
+                "correctAnswerIndex": 1,
+                "correctAnswerValue": "let"
+            },
+            {
+                "id": 2,
+                "currentQuestion": "What is the default access level for properties in Swift?",
+                "options": [
+                    "Internal",
+                    "Public",
+                    "Private",
+                    "Fileprivate"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "Internal"
+            },
+            {
+                "id": 3,
+                "currentQuestion": "Which method is used to create an array in Swift?",
+                "options": [
+                    "Array()",
+                    "createArray()",
+                    "new Array()",
+                    "[]"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "Array()"
+            },
+            {
+                "id": 4,
+                "currentQuestion": "What is used to denote optional types in Swift?",
+                "options": [
+                    "?",
+                    "!",
+                    "#",
+                    "@"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "?"
+            },
+            {
+                "id": 5,
+                "currentQuestion": "How do you define a function in Swift?",
+                "options": [
+                    "func functionName()",
+                    "define functionName()",
+                    "function functionName()",
+                    "method functionName()"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "func functionName()"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "domainName": "TypeScript",
+        "domainDescription": "This is for TypeScript",
+        "lecturerName": "Sree",
+        "difficultyLevel": "Medium",
+        "domainImage": "https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/05/23151218/BA-Courses.png",
+        "questions": [
+            {
+                "id": 1,
+                "currentQuestion": "What is TypeScript?",
+                "options": [
+                    "A superset of JavaScript",
+                    "A new programming language",
+                    "A library for JavaScript",
+                    "A database management system"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "A superset of JavaScript"
+            },
+            {
+                "id": 2,
+                "currentQuestion": "How do you define a type in TypeScript?",
+                "options": [
+                    "type TypeName = type;",
+                    "class TypeName = type;",
+                    "define TypeName as type;",
+                    "var TypeName: type;"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "type TypeName = type;"
+            },
+            {
+                "id": 3,
+                "currentQuestion": "Which keyword is used to define a class in TypeScript?",
+                "options": [
+                    "class",
+                    "type",
+                    "function",
+                    "interface"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "class"
+            },
+            {
+                "id": 4,
+                "currentQuestion": "What symbol is used for type annotations in TypeScript?",
+                "options": [
+                    ":",
+                    "=",
+                    "->",
+                    "?"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": ":"
+            },
+            {
+                "id": 5,
+                "currentQuestion": "How do you specify an optional parameter in TypeScript?",
+                "options": [
+                    "parameter?: type",
+                    "parameter? type",
+                    "optional parameter: type",
+                    "parameter: type?"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "parameter?: type"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "domainName": "Kotlin",
+        "domainDescription": "This is for Kotlin",
+        "lecturerName": "Neha",
+        "difficultyLevel": "Medium",
+        "domainImage": "https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/05/23151218/BA-Courses.png",
+        "questions": [
+            {
+                "id": 1,
+                "currentQuestion": "Which keyword is used to define a variable in Kotlin?",
+                "options": [
+                    "val",
+                    "var",
+                    "let",
+                    "define"
+                ],
+                "correctAnswerIndex": 1,
+                "correctAnswerValue": "var"
+            },
+            {
+                "id": 2,
+                "currentQuestion": "What is the primary purpose of Kotlin?",
+                "options": [
+                    "To replace Java for Android development",
+                    "To create web applications",
+                    "For data science",
+                    "For game development"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "To replace Java for Android development"
+            },
+            {
+                "id": 3,
+                "currentQuestion": "Which keyword is used to define a class in Kotlin?",
+                "options": [
+                    "class",
+                    "define",
+                    "object",
+                    "type"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "class"
+            },
+            {
+                "id": 4,
+                "currentQuestion": "How do you create a nullable variable in Kotlin?",
+                "options": [
+                    "var name: String?",
+                    "var name: String! ",
+                    "var name: Nullable String",
+                    "var name: String#"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "var name: String?"
+            },
+            {
+                "id": 5,
+                "currentQuestion": "What symbol is used to denote a lambda expression in Kotlin?",
+                "options": [
+                    "->",
+                    "=>",
+                    "=>",
+                    "~"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "->"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "domainName": "R",
+        "domainDescription": "This is for R",
+        "lecturerName": "Sujit",
+        "difficultyLevel": "Medium",
+        "domainImage": "https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/05/23151218/BA-Courses.png",
+        "questions": [
+            {
+                "id": 1,
+                "currentQuestion": "Which function is used to create a vector in R?",
+                "options": [
+                    "c()",
+                    "vector()",
+                    "array()",
+                    "list()"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "c()"
+            },
+            {
+                "id": 2,
+                "currentQuestion": "What does the 'mean()' function do in R?",
+                "options": [
+                    "Calculates the average",
+                    "Calculates the median",
+                    "Calculates the mode",
+                    "Calculates the sum"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "Calculates the average"
+            },
+            {
+                "id": 3,
+                "currentQuestion": "Which function is used to read a CSV file in R?",
+                "options": [
+                    "read.csv()",
+                    "import.csv()",
+                    "load.csv()",
+                    "read_file()"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "read.csv()"
+            },
+            {
+                "id": 4,
+                "currentQuestion": "What is the correct syntax to create a data frame in R?",
+                "options": [
+                    "data.frame()",
+                    "df()",
+                    "create.df()",
+                    "data_frame()"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "data.frame()"
+            },
+            {
+                "id": 5,
+                "currentQuestion": "Which operator is used for element-wise addition in R?",
+                "options": [
+                    "+",
+                    "++",
+                    "plus",
+                    "add"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "+"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "domainName": "Perl",
+        "domainDescription": "This is for Perl",
+        "lecturerName": "Deepak",
+        "difficultyLevel": "Hard",
+        "domainImage": "https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/05/23151218/BA-Courses.png",
+        "questions": [
+            {
+                "id": 1,
+                "currentQuestion": "What is the primary use of Perl?",
+                "options": [
+                    "Text processing",
+                    "Web development",
+                    "Data analysis",
+                    "System administration"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "Text processing"
+            },
+            {
+                "id": 2,
+                "currentQuestion": "Which operator is used for string concatenation in Perl?",
+                "options": [
+                    ".",
+                    "+",
+                    "&&",
+                    "||"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "."
+            },
+            {
+                "id": 3,
+                "currentQuestion": "How do you define a scalar variable in Perl?",
+                "options": [
+                    "$variable",
+                    "variable",
+                    "var variable",
+                    "scalar variable"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "$variable"
+            },
+            {
+                "id": 4,
+                "currentQuestion": "Which function is used to open a file in Perl?",
+                "options": [
+                    "open()",
+                    "file()",
+                    "read()",
+                    "create()"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "open()"
+            },
+            {
+                "id": 5,
+                "currentQuestion": "What symbol is used for comments in Perl?",
+                "options": [
+                    "#",
+                    "//",
+                    "/*",
+                    ";"
+                ],
+                "correctAnswerIndex": 0,
+                "correctAnswerValue": "#"
+            }
+        ]
+    },
+    {
+    "id": 15,
+    "domainName": "Go",
+    "domainDescription": "This is for Go",
+    "lecturerName": "Ravi",
+    "difficultyLevel": "Medium",
+    "domainImage": "https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/05/23151218/BA-Courses.png",
+    "questions": [
+        {
+            "id": 1,
+            "currentQuestion": "What is Go commonly known as?",
+            "options": [
+                "Golang",
+                "GoLang",
+                "Go Programming Language",
+                "Golang Language"
+            ],
+            "correctAnswerIndex": 0,
+            "correctAnswerValue": "Golang"
+        },
+        {
+            "id": 2,
+            "currentQuestion": "Which keyword is used to declare a variable in Go?",
+            "options": [
+                "var",
+                "let",
+                "define",
+                "const"
+            ],
+            "correctAnswerIndex": 0,
+            "correctAnswerValue": "var"
+        },
+        {
+            "id": 3,
+            "currentQuestion": "What is the default value of a variable in Go if not explicitly initialized?",
+            "options": [
+                "Zero value",
+                "Null",
+                "Empty",
+                "Undefined"
+            ],
+            "correctAnswerIndex": 0,
+            "correctAnswerValue": "Zero value"
+        },
+        {
+            "id": 4,
+            "currentQuestion": "Which package in Go is used to handle input and output?",
+            "options": [
+                "fmt",
+                "io",
+                "os",
+                "input"
+            ],
+            "correctAnswerIndex": 0,
+            "correctAnswerValue": "fmt"
+        },
+        {
+            "id": 5,
+            "currentQuestion": "How do you create a new Go function?",
+            "options": [
+                "func functionName()",
+                "def functionName()",
+                "function functionName()",
+                "create functionName()"
+            ],
+            "correctAnswerIndex": 0,
+            "correctAnswerValue": "func functionName()"
+        }
+    ]
+}
+]
+

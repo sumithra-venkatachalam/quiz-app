@@ -1,0 +1,45 @@
+.scoreAllDetails {
+    -webkit-box-shadow: 12px 10px 20px -3px rgba(0,0,0,0.23);
+    -moz-box-shadow: 12px 10px 20px -3px rgba(0,0,0,0.23);
+    box-shadow: 12px 10px 20px -3px rgba(0,0,0,0.23);
+    width: 80vw;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family:"Noto Sans", sans-serif;
+}
+
+.outerScore {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.restartButton {
+    width: 140px;
+    height: 40px;
+    background-color: rgb(18, 18, 63);
+    color: white;
+    font-size: large;
+    font-family:"Noto Sans", sans-serif;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.firstText {
+    font-size: 20px;
+}
+
+.scoreText {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.returnToHome {
+    cursor: pointer;
+}
