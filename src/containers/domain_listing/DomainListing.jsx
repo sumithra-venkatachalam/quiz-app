@@ -5,7 +5,7 @@ import {useContext, useState} from "react";
 import UsernameContext from "../../context/UsernameContext";
 function DomainListing() {
 
-    const {username} = useContext(UsernameContext)
+    const {username, setUsername} = useContext(UsernameContext)
 
     const navigate= useNavigate();
 
@@ -42,6 +42,7 @@ function DomainListing() {
 
     const handleLogOut = () => {
         navigate("/")
+        setUsername(null)
     }
 
     return(

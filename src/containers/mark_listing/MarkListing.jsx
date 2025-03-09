@@ -6,7 +6,7 @@ import ConfettiExplosion from 'react-confetti-explosion';
 
 function MarkListing() {
 
-    const {username} = useContext(UsernameContext);
+    const {username,setUsername} = useContext(UsernameContext);
 
     const navigate = useNavigate();
 
@@ -16,6 +16,8 @@ function MarkListing() {
 
     const handleLogout = () => {
         navigate("/")
+        setUsername(null)
+
     }
 
     const {score} = useParams();

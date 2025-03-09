@@ -8,12 +8,11 @@ function Login() {
 
     const {username, setUsername} = useContext(UsernameContext);
     const [loginPassword, setLoginPassword] = useState("");
-    const [signupUsername, setSignupUsername] = useState("");
     const [signupPassword, setSignupPassword] = useState("");
     const [signupConfirmPassword, setSignupConfirmPassword] = useState("");
     const [loginUsernameError, setLoginUsernameError] = useState("");
     const [loginPasswordError, setLoginPasswordError] = useState("");
-    const [signupUsernameError, setSignupUsernameError] = useState("");
+    const [signupUsernameError, setUsernameError] = useState("");
     const [signupPasswordError, setSignupPasswordError] = useState("");
     const [signupConfirmPasswordError, setSignupConfirmPasswordError] = useState("");
 
@@ -24,7 +23,7 @@ function Login() {
         setLoginPassword(e.target.value)
     }
     const signupUsernameFunc = (e) => {
-        setSignupUsername(e.target.value)
+        setUsername(e.target.value)
     }
     const signupPasswordFunc = (e) => {
         setSignupPassword(e.target.value)
@@ -48,18 +47,18 @@ function Login() {
 
         let hasError = false
 
-        if(signupUsername.length === 0) {
+        if(username.length === 0) {
             hasError = true;
-            setSignupUsernameError("UserName is required");
+            setUsernameError("UserName is required");
         }
             
-        else if (signupUsername.length < 5) {
+        else if (username.length < 5) {
             hasError = true;
-            setSignupUsernameError("Username characters must be greater than 5 characters");
+            setUsernameError("Username characters must be greater than 5 characters");
         }
-        else if (signupUsername.length > 25) {
+        else if (username.length > 25) {
             hasError = true;
-            setSignupUsernameError("Username characters should be less than 25 characters");
+            setUsernameError("Username characters should be less than 25 characters");
         }
 
         if (signupPassword.length === 0) {
