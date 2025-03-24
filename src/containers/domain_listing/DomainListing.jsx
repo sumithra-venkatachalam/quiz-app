@@ -3,7 +3,7 @@ import mockData from "../../utils/mockData.json";
 import {useNavigate} from "react-router-dom";
 import {useContext, useState} from "react";
 import UsernameContext from "../../context/UsernameContext";
-function DomainListing() {
+function DomainListing() { 
 
     const {username, setUsername} = useContext(UsernameContext)
 
@@ -48,11 +48,11 @@ function DomainListing() {
     return(
         <div>
             <div className="header">
-                <h1>QuizHUT</h1>
+                <h1 >QuizHUT</h1>
                 <div className="header headerRight">
-                <h1>Blog</h1>
-                <h1>About</h1>
-                <h1>Contact Us</h1>
+                <h1 className="NavBarOptions">Blog</h1>
+                <h1 className="NavBarOptions">About</h1>
+                <h1 className="NavBarOptions">Contact Us</h1>
                 <i onClick={handleLogOut} className="fa fa-sign-out logoutIcon" aria-hidden="true"></i>
                 </div>
             </div>
